@@ -1,0 +1,20 @@
+{
+  "name": "genpark-synthetic-qa-pair-corpus-extractor-skill",
+  "version": "1.0.0",
+  "description": "Rule-based and heuristic question-answer pair generator extracting factual and definitional training tuples from raw text",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "qa-corpus-extractor",
+    "synthetic-qa",
+    "corpus-mining",
+    "data-synthesis",
+    "dataset-prep",
+    "python-standard-library",
+    "agent-skills",
+    "information-extraction",
+    "nlp",
+    "developer-tools"
+  ]
+}
