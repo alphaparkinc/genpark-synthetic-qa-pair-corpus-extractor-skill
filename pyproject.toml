@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-synthetic-qa-pair-corpus-extractor-skill"
+version = "1.0.0"
+description = "Rule-based and heuristic question-answer pair generator extracting factual and definitional training tuples from raw text"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
